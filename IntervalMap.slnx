@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IntervalMap.vcxproj" Id="3da583ec-2621-4121-863d-9608d2013cb0" />
+</Solution>
